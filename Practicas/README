@@ -1,0 +1,23 @@
+#-----------Aplicación CRUD------------
+        Por: César Jauregui
+---------------------------------------
+
+Menu BBDD
+Conectar: crea la base de datos
+Salir: cierra la Aplicación
+
+Menu Borrar
+Limpiar campos: resetea los campos
+
+Menu CRUD y Botones
+Crear, Mostrar, Editar, Eliminar: Procedimientos CRUD necesarios para que funcione la aplicación
+
+Crear: Para crear un nuevo registro, llenar los campos en blanco, menos el id (es incremental)
+
+Mostrar: Para mostrar un registro, se debe conocer el id e introducirlo en el campo ID, luego realizar la busqueda con el botón "Mostrar" o la opción del menu "Mostrar"
+
+Editar: Para editar un registro, se debe conocer el id e introducirlo en el campo ID, luego realizar la busqueda con el botón "Mostrar". Aparecerá la información y se podrá editar
+
+Eliminar: Para eliminar un registro, se debe conocer el id e introducirlo en el campos ID, luego realizar la busqueda con el botón "Mostrar". Aplicación la información y se podrá borrar.
+
+---------------------------------------------------
